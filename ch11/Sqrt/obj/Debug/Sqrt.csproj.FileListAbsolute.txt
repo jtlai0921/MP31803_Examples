@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Sqrt\bin\Debug\Sqrt.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Sqrt\bin\Debug\Sqrt.exe
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Sqrt\bin\Debug\Sqrt.pdb
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Sqrt\obj\Debug\Sqrt.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Sqrt\obj\Debug\Sqrt.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Sqrt\obj\Debug\Sqrt.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Sqrt\obj\Debug\Sqrt.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Sqrt\obj\Debug\Sqrt.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Sqrt\obj\Debug\Sqrt.exe
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Sqrt\obj\Debug\Sqrt.pdb

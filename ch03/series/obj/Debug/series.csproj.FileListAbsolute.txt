@@ -1,0 +1,7 @@
+C:\C#2017\ch03\series\bin\Debug\series.exe.config
+C:\C#2017\ch03\series\bin\Debug\series.exe
+C:\C#2017\ch03\series\bin\Debug\series.pdb
+C:\C#2017\ch03\series\obj\Debug\series.csprojResolveAssemblyReference.cache
+C:\C#2017\ch03\series\obj\Debug\series.csproj.CoreCompileInputs.cache
+C:\C#2017\ch03\series\obj\Debug\series.exe
+C:\C#2017\ch03\series\obj\Debug\series.pdb

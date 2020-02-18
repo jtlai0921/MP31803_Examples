@@ -1,0 +1,14 @@
+C:\cs2017\ch06\Constructor\bin\Debug\Constructor.exe.config
+C:\cs2017\ch06\Constructor\bin\Debug\Constructor.exe
+C:\cs2017\ch06\Constructor\bin\Debug\Constructor.pdb
+C:\cs2017\ch06\Constructor\obj\Debug\Constructor.csprojResolveAssemblyReference.cache
+C:\cs2017\ch06\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\cs2017\ch06\Constructor\obj\Debug\Constructor.exe
+C:\cs2017\ch06\Constructor\obj\Debug\Constructor.pdb
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Constructor\bin\Debug\Constructor.exe.config
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Constructor\bin\Debug\Constructor.exe
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Constructor\bin\Debug\Constructor.pdb
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Constructor\obj\Debug\Constructor.csprojResolveAssemblyReference.cache
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Constructor\obj\Debug\Constructor.exe
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Constructor\obj\Debug\Constructor.pdb

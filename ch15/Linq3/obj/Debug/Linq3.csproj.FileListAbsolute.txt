@@ -1,0 +1,16 @@
+C:\cs2017\ch15\Linq3\bin\Debug\Database1.mdf
+C:\cs2017\ch15\Linq3\bin\Debug\Database1_log.ldf
+C:\cs2017\ch15\Linq3\bin\Debug\EntityFramework.dll
+C:\cs2017\ch15\Linq3\bin\Debug\EntityFramework.SqlServer.dll
+C:\cs2017\ch15\Linq3\bin\Debug\EntityFramework.xml
+C:\cs2017\ch15\Linq3\bin\Debug\EntityFramework.SqlServer.xml
+C:\cs2017\ch15\Linq3\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\cs2017\ch15\Linq3\obj\Debug\Linq3.Properties.Resources.resources
+C:\cs2017\ch15\Linq3\obj\Debug\Linq3.csproj.GenerateResource.Cache
+C:\cs2017\ch15\Linq3\obj\Debug\Linq3.exe
+C:\cs2017\ch15\Linq3\obj\Debug\Linq3.pdb
+C:\cs2017\ch15\Linq3\obj\Debug\Linq3.Form1.resources
+C:\cs2017\ch15\Linq3\bin\Debug\Linq3.exe.config
+C:\cs2017\ch15\Linq3\bin\Debug\Linq3.exe
+C:\cs2017\ch15\Linq3\bin\Debug\Linq3.pdb
+C:\cs2017\ch15\Linq3\obj\Debug\Linq3.csprojResolveAssemblyReference.cache

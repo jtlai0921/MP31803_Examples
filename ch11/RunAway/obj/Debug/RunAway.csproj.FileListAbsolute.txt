@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\RunAway\bin\Debug\RunAway.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\RunAway\bin\Debug\RunAway.exe
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\RunAway\bin\Debug\RunAway.pdb
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\RunAway\obj\Debug\RunAway.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\RunAway\obj\Debug\RunAway.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\RunAway\obj\Debug\RunAway.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\RunAway\obj\Debug\RunAway.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\RunAway\obj\Debug\RunAway.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\RunAway\obj\Debug\RunAway.exe
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\RunAway\obj\Debug\RunAway.pdb

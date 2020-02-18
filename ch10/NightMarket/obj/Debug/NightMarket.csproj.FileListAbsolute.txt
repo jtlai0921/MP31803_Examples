@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\NightMarket\bin\Debug\NightMarket.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\NightMarket\bin\Debug\NightMarket.exe
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\NightMarket\bin\Debug\NightMarket.pdb
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\NightMarket\obj\Debug\NightMarket.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\NightMarket\obj\Debug\NightMarket.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\NightMarket\obj\Debug\NightMarket.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\NightMarket\obj\Debug\NightMarket.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\NightMarket\obj\Debug\NightMarket.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\NightMarket\obj\Debug\NightMarket.exe
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\NightMarket\obj\Debug\NightMarket.pdb

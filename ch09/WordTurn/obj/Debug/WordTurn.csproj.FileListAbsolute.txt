@@ -1,0 +1,10 @@
+C:\CS2017\ch09\WordTurn\bin\Debug\WordTurn.exe.config
+C:\CS2017\ch09\WordTurn\bin\Debug\WordTurn.exe
+C:\CS2017\ch09\WordTurn\bin\Debug\WordTurn.pdb
+C:\CS2017\ch09\WordTurn\obj\Debug\WordTurn.csprojResolveAssemblyReference.cache
+C:\CS2017\ch09\WordTurn\obj\Debug\WordTurn.Form1.resources
+C:\CS2017\ch09\WordTurn\obj\Debug\WordTurn.Properties.Resources.resources
+C:\CS2017\ch09\WordTurn\obj\Debug\WordTurn.csproj.GenerateResource.Cache
+C:\CS2017\ch09\WordTurn\obj\Debug\WordTurn.csproj.CoreCompileInputs.cache
+C:\CS2017\ch09\WordTurn\obj\Debug\WordTurn.exe
+C:\CS2017\ch09\WordTurn\obj\Debug\WordTurn.pdb

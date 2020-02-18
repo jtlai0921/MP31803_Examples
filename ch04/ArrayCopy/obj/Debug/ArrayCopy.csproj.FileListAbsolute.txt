@@ -1,0 +1,7 @@
+C:\cs2017\ch04\ArrayCopy\bin\Debug\ArrayCopy.exe.config
+C:\cs2017\ch04\ArrayCopy\bin\Debug\ArrayCopy.exe
+C:\cs2017\ch04\ArrayCopy\bin\Debug\ArrayCopy.pdb
+C:\cs2017\ch04\ArrayCopy\obj\Debug\ArrayCopy.csprojResolveAssemblyReference.cache
+C:\cs2017\ch04\ArrayCopy\obj\Debug\ArrayCopy.csproj.CoreCompileInputs.cache
+C:\cs2017\ch04\ArrayCopy\obj\Debug\ArrayCopy.exe
+C:\cs2017\ch04\ArrayCopy\obj\Debug\ArrayCopy.pdb

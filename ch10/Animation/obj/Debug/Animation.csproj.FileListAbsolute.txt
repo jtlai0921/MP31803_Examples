@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Animation\bin\Debug\Animation.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Animation\bin\Debug\Animation.exe
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Animation\bin\Debug\Animation.pdb
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Animation\obj\Debug\Animation.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Animation\obj\Debug\Animation.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Animation\obj\Debug\Animation.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Animation\obj\Debug\Animation.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Animation\obj\Debug\Animation.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Animation\obj\Debug\Animation.exe
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Animation\obj\Debug\Animation.pdb

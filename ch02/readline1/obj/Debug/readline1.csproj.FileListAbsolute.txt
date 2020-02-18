@@ -1,0 +1,7 @@
+C:\CS2017\ch02\readline1\bin\Debug\readline1.exe.config
+C:\CS2017\ch02\readline1\bin\Debug\readline1.exe
+C:\CS2017\ch02\readline1\bin\Debug\readline1.pdb
+C:\CS2017\ch02\readline1\obj\Debug\readline1.csprojResolveAssemblyReference.cache
+C:\CS2017\ch02\readline1\obj\Debug\readline1.csproj.CoreCompileInputs.cache
+C:\CS2017\ch02\readline1\obj\Debug\readline1.exe
+C:\CS2017\ch02\readline1\obj\Debug\readline1.pdb

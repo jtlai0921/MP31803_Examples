@@ -1,0 +1,7 @@
+C:\CS2017\ch02\write1\bin\Debug\write1.exe.config
+C:\CS2017\ch02\write1\bin\Debug\write1.exe
+C:\CS2017\ch02\write1\bin\Debug\write1.pdb
+C:\CS2017\ch02\write1\obj\Debug\write1.csprojResolveAssemblyReference.cache
+C:\CS2017\ch02\write1\obj\Debug\write1.csproj.CoreCompileInputs.cache
+C:\CS2017\ch02\write1\obj\Debug\write1.exe
+C:\CS2017\ch02\write1\obj\Debug\write1.pdb

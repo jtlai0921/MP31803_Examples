@@ -1,0 +1,7 @@
+C:\cs2017\ch04\array\bin\Debug\array.exe.config
+C:\cs2017\ch04\array\bin\Debug\array.exe
+C:\cs2017\ch04\array\bin\Debug\array.pdb
+C:\cs2017\ch04\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+C:\cs2017\ch04\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\cs2017\ch04\array\obj\Debug\array.exe
+C:\cs2017\ch04\array\obj\Debug\array.pdb

@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Alarm\obj\Debug\Alarm.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Alarm\obj\Debug\Alarm.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Alarm\obj\Debug\Alarm.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Alarm\bin\Debug\Alarm.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Alarm\bin\Debug\Alarm.exe
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Alarm\bin\Debug\Alarm.pdb
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Alarm\obj\Debug\Alarm.exe
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Alarm\obj\Debug\Alarm.pdb

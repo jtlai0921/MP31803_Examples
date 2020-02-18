@@ -1,0 +1,10 @@
+C:\CS2017\ch09\Timer\bin\Debug\Timer.exe.config
+C:\CS2017\ch09\Timer\bin\Debug\Timer.exe
+C:\CS2017\ch09\Timer\bin\Debug\Timer.pdb
+C:\CS2017\ch09\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\CS2017\ch09\Timer\obj\Debug\Timer.Form1.resources
+C:\CS2017\ch09\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\CS2017\ch09\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\CS2017\ch09\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\CS2017\ch09\Timer\obj\Debug\Timer.exe
+C:\CS2017\ch09\Timer\obj\Debug\Timer.pdb

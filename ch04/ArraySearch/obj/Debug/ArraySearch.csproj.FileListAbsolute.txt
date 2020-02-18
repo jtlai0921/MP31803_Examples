@@ -1,0 +1,6 @@
+C:\cs2017\ch04\ArraySearch\bin\Debug\ArraySearch.exe.config
+C:\cs2017\ch04\ArraySearch\bin\Debug\ArraySearch.exe
+C:\cs2017\ch04\ArraySearch\bin\Debug\ArraySearch.pdb
+C:\cs2017\ch04\ArraySearch\obj\Debug\ArraySearch.csproj.CoreCompileInputs.cache
+C:\cs2017\ch04\ArraySearch\obj\Debug\ArraySearch.exe
+C:\cs2017\ch04\ArraySearch\obj\Debug\ArraySearch.pdb

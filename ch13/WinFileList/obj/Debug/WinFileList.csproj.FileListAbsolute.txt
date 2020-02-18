@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\WinFileList\bin\Debug\WinFileList.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\WinFileList\bin\Debug\WinFileList.exe
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\WinFileList\bin\Debug\WinFileList.pdb
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\WinFileList\obj\Debug\WinFileList.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\WinFileList\obj\Debug\WinFileList.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\WinFileList\obj\Debug\WinFileList.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\WinFileList\obj\Debug\WinFileList.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\WinFileList\obj\Debug\WinFileList.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\WinFileList\obj\Debug\WinFileList.exe
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\WinFileList\obj\Debug\WinFileList.pdb

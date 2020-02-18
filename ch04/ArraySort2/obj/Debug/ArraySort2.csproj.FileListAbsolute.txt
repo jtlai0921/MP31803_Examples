@@ -1,0 +1,6 @@
+C:\cs2017\ch04\ArraySort2\bin\Debug\ArraySort2.exe.config
+C:\cs2017\ch04\ArraySort2\bin\Debug\ArraySort2.exe
+C:\cs2017\ch04\ArraySort2\bin\Debug\ArraySort2.pdb
+C:\cs2017\ch04\ArraySort2\obj\Debug\ArraySort2.csproj.CoreCompileInputs.cache
+C:\cs2017\ch04\ArraySort2\obj\Debug\ArraySort2.exe
+C:\cs2017\ch04\ArraySort2\obj\Debug\ArraySort2.pdb

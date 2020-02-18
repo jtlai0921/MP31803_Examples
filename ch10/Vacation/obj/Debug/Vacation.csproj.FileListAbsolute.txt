@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Vacation\bin\Debug\Vacation.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Vacation\bin\Debug\Vacation.exe
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Vacation\bin\Debug\Vacation.pdb
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Vacation\obj\Debug\Vacation.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Vacation\obj\Debug\Vacation.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Vacation\obj\Debug\Vacation.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Vacation\obj\Debug\Vacation.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Vacation\obj\Debug\Vacation.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Vacation\obj\Debug\Vacation.exe
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\Vacation\obj\Debug\Vacation.pdb

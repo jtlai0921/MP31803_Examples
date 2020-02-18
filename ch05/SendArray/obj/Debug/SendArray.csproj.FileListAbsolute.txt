@@ -1,0 +1,7 @@
+C:\cs2017\ch05\SendArray\bin\Debug\SendArray.exe.config
+C:\cs2017\ch05\SendArray\bin\Debug\SendArray.exe
+C:\cs2017\ch05\SendArray\bin\Debug\SendArray.pdb
+C:\cs2017\ch05\SendArray\obj\Debug\SendArray.csprojResolveAssemblyReference.cache
+C:\cs2017\ch05\SendArray\obj\Debug\SendArray.csproj.CoreCompileInputs.cache
+C:\cs2017\ch05\SendArray\obj\Debug\SendArray.exe
+C:\cs2017\ch05\SendArray\obj\Debug\SendArray.pdb

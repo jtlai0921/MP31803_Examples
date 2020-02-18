@@ -1,0 +1,16 @@
+C:\cs2017\ch15\Linq4\bin\Debug\Database1.mdf
+C:\cs2017\ch15\Linq4\bin\Debug\Database1_log.ldf
+C:\cs2017\ch15\Linq4\bin\Debug\EntityFramework.dll
+C:\cs2017\ch15\Linq4\bin\Debug\EntityFramework.SqlServer.dll
+C:\cs2017\ch15\Linq4\bin\Debug\EntityFramework.xml
+C:\cs2017\ch15\Linq4\bin\Debug\EntityFramework.SqlServer.xml
+C:\cs2017\ch15\Linq4\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\cs2017\ch15\Linq4\obj\Debug\Linq4.csprojResolveAssemblyReference.cache
+C:\cs2017\ch15\Linq4\obj\Debug\Linq4.Properties.Resources.resources
+C:\cs2017\ch15\Linq4\obj\Debug\Linq4.csproj.GenerateResource.Cache
+C:\cs2017\ch15\Linq4\obj\Debug\Linq4.exe
+C:\cs2017\ch15\Linq4\obj\Debug\Linq4.pdb
+C:\cs2017\ch15\Linq4\bin\Debug\Linq4.exe.config
+C:\cs2017\ch15\Linq4\bin\Debug\Linq4.exe
+C:\cs2017\ch15\Linq4\bin\Debug\Linq4.pdb
+C:\cs2017\ch15\Linq4\obj\Debug\Linq4.Form1.resources

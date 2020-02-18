@@ -1,0 +1,10 @@
+C:\CS2017\ch09\PicSet\bin\Debug\PicSet.exe.config
+C:\CS2017\ch09\PicSet\bin\Debug\PicSet.exe
+C:\CS2017\ch09\PicSet\bin\Debug\PicSet.pdb
+C:\CS2017\ch09\PicSet\obj\Debug\PicSet.csprojResolveAssemblyReference.cache
+C:\CS2017\ch09\PicSet\obj\Debug\PicSet.Form1.resources
+C:\CS2017\ch09\PicSet\obj\Debug\PicSet.Properties.Resources.resources
+C:\CS2017\ch09\PicSet\obj\Debug\PicSet.csproj.GenerateResource.Cache
+C:\CS2017\ch09\PicSet\obj\Debug\PicSet.csproj.CoreCompileInputs.cache
+C:\CS2017\ch09\PicSet\obj\Debug\PicSet.exe
+C:\CS2017\ch09\PicSet\obj\Debug\PicSet.pdb

@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Touch\bin\Debug\Touch.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Touch\bin\Debug\Touch.exe
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Touch\bin\Debug\Touch.pdb
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Touch\obj\Debug\Touch.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Touch\obj\Debug\Touch.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Touch\obj\Debug\Touch.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Touch\obj\Debug\Touch.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Touch\obj\Debug\Touch.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Touch\obj\Debug\Touch.exe
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Touch\obj\Debug\Touch.pdb

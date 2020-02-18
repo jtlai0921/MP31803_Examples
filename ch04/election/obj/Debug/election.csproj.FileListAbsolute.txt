@@ -1,0 +1,13 @@
+C:\cs2017\ch04\election\bin\Debug\election.exe.config
+C:\cs2017\ch04\election\bin\Debug\election.exe
+C:\cs2017\ch04\election\bin\Debug\election.pdb
+C:\cs2017\ch04\election\obj\Debug\election.csproj.CoreCompileInputs.cache
+C:\cs2017\ch04\election\obj\Debug\election.exe
+C:\cs2017\ch04\election\obj\Debug\election.pdb
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch04\ch04範例\election\bin\Debug\election.exe.config
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch04\ch04範例\election\bin\Debug\election.exe
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch04\ch04範例\election\bin\Debug\election.pdb
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch04\ch04範例\election\obj\Debug\election.csprojResolveAssemblyReference.cache
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch04\ch04範例\election\obj\Debug\election.csproj.CoreCompileInputs.cache
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch04\ch04範例\election\obj\Debug\election.exe
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch04\ch04範例\election\obj\Debug\election.pdb

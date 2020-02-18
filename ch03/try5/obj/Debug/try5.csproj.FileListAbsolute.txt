@@ -1,0 +1,6 @@
+C:\C#2017\ch03\try5\bin\Debug\try5.exe.config
+C:\C#2017\ch03\try5\bin\Debug\try5.exe
+C:\C#2017\ch03\try5\bin\Debug\try5.pdb
+C:\C#2017\ch03\try5\obj\Debug\try5.csproj.CoreCompileInputs.cache
+C:\C#2017\ch03\try5\obj\Debug\try5.exe
+C:\C#2017\ch03\try5\obj\Debug\try5.pdb

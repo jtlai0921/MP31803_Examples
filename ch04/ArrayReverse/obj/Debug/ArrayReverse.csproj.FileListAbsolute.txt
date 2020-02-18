@@ -1,0 +1,7 @@
+C:\cs2017\ch04\ArrayReverse\bin\Debug\ArrayReverse.exe.config
+C:\cs2017\ch04\ArrayReverse\bin\Debug\ArrayReverse.exe
+C:\cs2017\ch04\ArrayReverse\bin\Debug\ArrayReverse.pdb
+C:\cs2017\ch04\ArrayReverse\obj\Debug\ArrayReverse.csprojResolveAssemblyReference.cache
+C:\cs2017\ch04\ArrayReverse\obj\Debug\ArrayReverse.csproj.CoreCompileInputs.cache
+C:\cs2017\ch04\ArrayReverse\obj\Debug\ArrayReverse.exe
+C:\cs2017\ch04\ArrayReverse\obj\Debug\ArrayReverse.pdb

@@ -1,0 +1,7 @@
+c:\cs2017\ch01\hello\bin\Debug\hello.exe.config
+c:\cs2017\ch01\hello\bin\Debug\hello.exe
+c:\cs2017\ch01\hello\bin\Debug\hello.pdb
+c:\cs2017\ch01\hello\obj\Debug\hello.csprojResolveAssemblyReference.cache
+c:\cs2017\ch01\hello\obj\Debug\hello.exe
+c:\cs2017\ch01\hello\obj\Debug\hello.pdb
+C:\cs2017\ch01\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache

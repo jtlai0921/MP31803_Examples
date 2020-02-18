@@ -1,0 +1,6 @@
+C:\CS2017\ch02\writeline1\bin\Debug\writeline1.exe.config
+C:\CS2017\ch02\writeline1\bin\Debug\writeline1.exe
+C:\CS2017\ch02\writeline1\bin\Debug\writeline1.pdb
+C:\CS2017\ch02\writeline1\obj\Debug\writeline1.csproj.CoreCompileInputs.cache
+C:\CS2017\ch02\writeline1\obj\Debug\writeline1.exe
+C:\CS2017\ch02\writeline1\obj\Debug\writeline1.pdb

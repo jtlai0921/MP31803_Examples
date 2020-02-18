@@ -1,0 +1,14 @@
+C:\cs2017\ch06\ObjectSetValue\bin\Debug\ObjectSetValue.exe.config
+C:\cs2017\ch06\ObjectSetValue\bin\Debug\ObjectSetValue.exe
+C:\cs2017\ch06\ObjectSetValue\bin\Debug\ObjectSetValue.pdb
+C:\cs2017\ch06\ObjectSetValue\obj\Debug\ObjectSetValue.csprojResolveAssemblyReference.cache
+C:\cs2017\ch06\ObjectSetValue\obj\Debug\ObjectSetValue.csproj.CoreCompileInputs.cache
+C:\cs2017\ch06\ObjectSetValue\obj\Debug\ObjectSetValue.exe
+C:\cs2017\ch06\ObjectSetValue\obj\Debug\ObjectSetValue.pdb
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectSetValue\bin\Debug\ObjectSetValue.exe.config
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectSetValue\bin\Debug\ObjectSetValue.exe
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectSetValue\bin\Debug\ObjectSetValue.pdb
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectSetValue\obj\Debug\ObjectSetValue.csprojResolveAssemblyReference.cache
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectSetValue\obj\Debug\ObjectSetValue.csproj.CoreCompileInputs.cache
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectSetValue\obj\Debug\ObjectSetValue.exe
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectSetValue\obj\Debug\ObjectSetValue.pdb

@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\RichTextBox\bin\Debug\RichTextBox.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\RichTextBox\bin\Debug\RichTextBox.exe
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\RichTextBox\bin\Debug\RichTextBox.pdb
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\RichTextBox\obj\Debug\RichTextBox.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\RichTextBox\obj\Debug\RichTextBox.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\RichTextBox\obj\Debug\RichTextBox.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\RichTextBox\obj\Debug\RichTextBox.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\RichTextBox\obj\Debug\RichTextBox.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\RichTextBox\obj\Debug\RichTextBox.exe
+D:\08從零開始\VisualC#2017從零開始\ch10\ch10範例\RichTextBox\obj\Debug\RichTextBox.pdb

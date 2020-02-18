@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Rabbit\bin\Debug\Rabbit.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Rabbit\bin\Debug\Rabbit.exe
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Rabbit\bin\Debug\Rabbit.pdb
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Rabbit\obj\Debug\Rabbit.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Rabbit\obj\Debug\Rabbit.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Rabbit\obj\Debug\Rabbit.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Rabbit\obj\Debug\Rabbit.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Rabbit\obj\Debug\Rabbit.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Rabbit\obj\Debug\Rabbit.exe
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\Rabbit\obj\Debug\Rabbit.pdb

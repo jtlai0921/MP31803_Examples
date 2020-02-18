@@ -1,0 +1,9 @@
+C:\cs2017\ch15\Linq2\bin\Debug\Linq2.exe.config
+C:\cs2017\ch15\Linq2\bin\Debug\Linq2.exe
+C:\cs2017\ch15\Linq2\bin\Debug\Linq2.pdb
+C:\cs2017\ch15\Linq2\obj\Debug\Linq2.csprojResolveAssemblyReference.cache
+C:\cs2017\ch15\Linq2\obj\Debug\Linq2.Form1.resources
+C:\cs2017\ch15\Linq2\obj\Debug\Linq2.Properties.Resources.resources
+C:\cs2017\ch15\Linq2\obj\Debug\Linq2.csproj.GenerateResource.Cache
+C:\cs2017\ch15\Linq2\obj\Debug\Linq2.exe
+C:\cs2017\ch15\Linq2\obj\Debug\Linq2.pdb

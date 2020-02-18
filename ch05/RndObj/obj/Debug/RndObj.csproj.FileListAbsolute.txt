@@ -1,0 +1,7 @@
+C:\cs2017\ch05\RndObj\bin\Debug\RndObj.exe.config
+C:\cs2017\ch05\RndObj\bin\Debug\RndObj.exe
+C:\cs2017\ch05\RndObj\bin\Debug\RndObj.pdb
+C:\cs2017\ch05\RndObj\obj\Debug\RndObj.csprojResolveAssemblyReference.cache
+C:\cs2017\ch05\RndObj\obj\Debug\RndObj.csproj.CoreCompileInputs.cache
+C:\cs2017\ch05\RndObj\obj\Debug\RndObj.exe
+C:\cs2017\ch05\RndObj\obj\Debug\RndObj.pdb

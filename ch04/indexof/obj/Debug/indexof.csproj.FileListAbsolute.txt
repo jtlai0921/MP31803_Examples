@@ -1,0 +1,7 @@
+C:\cs2017\ch04\indexof\bin\Debug\indexof.exe.config
+C:\cs2017\ch04\indexof\bin\Debug\indexof.exe
+C:\cs2017\ch04\indexof\bin\Debug\indexof.pdb
+C:\cs2017\ch04\indexof\obj\Debug\indexof.csprojResolveAssemblyReference.cache
+C:\cs2017\ch04\indexof\obj\Debug\indexof.csproj.CoreCompileInputs.cache
+C:\cs2017\ch04\indexof\obj\Debug\indexof.exe
+C:\cs2017\ch04\indexof\obj\Debug\indexof.pdb

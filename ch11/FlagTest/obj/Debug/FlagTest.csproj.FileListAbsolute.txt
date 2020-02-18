@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\FlagTest\bin\Debug\FlagTest.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\FlagTest\bin\Debug\FlagTest.exe
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\FlagTest\bin\Debug\FlagTest.pdb
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\FlagTest\obj\Debug\FlagTest.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\FlagTest\obj\Debug\FlagTest.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\FlagTest\obj\Debug\FlagTest.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\FlagTest\obj\Debug\FlagTest.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\FlagTest\obj\Debug\FlagTest.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\FlagTest\obj\Debug\FlagTest.exe
+D:\08從零開始\VisualC#2017從零開始\ch11\範例\FlagTest\obj\Debug\FlagTest.pdb

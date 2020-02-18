@@ -1,0 +1,11 @@
+C:\cs2017\ch14\RelationDB\bin\Debug\Northwind.mdf
+C:\cs2017\ch14\RelationDB\bin\Debug\Northwind_log.ldf
+C:\cs2017\ch14\RelationDB\bin\Debug\RelationDB.exe.config
+C:\cs2017\ch14\RelationDB\bin\Debug\RelationDB.exe
+C:\cs2017\ch14\RelationDB\bin\Debug\RelationDB.pdb
+C:\cs2017\ch14\RelationDB\obj\Debug\RelationDB.csprojResolveAssemblyReference.cache
+C:\cs2017\ch14\RelationDB\obj\Debug\RelationDB.Form1.resources
+C:\cs2017\ch14\RelationDB\obj\Debug\RelationDB.Properties.Resources.resources
+C:\cs2017\ch14\RelationDB\obj\Debug\RelationDB.csproj.GenerateResource.Cache
+C:\cs2017\ch14\RelationDB\obj\Debug\RelationDB.exe
+C:\cs2017\ch14\RelationDB\obj\Debug\RelationDB.pdb

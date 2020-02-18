@@ -1,0 +1,10 @@
+C:\cs2017\ch08\msgbox1\bin\Debug\msgbox1.exe.config
+C:\cs2017\ch08\msgbox1\bin\Debug\msgbox1.exe
+C:\cs2017\ch08\msgbox1\bin\Debug\msgbox1.pdb
+C:\cs2017\ch08\msgbox1\obj\Debug\msgbox1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch08\msgbox1\obj\Debug\msgbox1.Form1.resources
+C:\cs2017\ch08\msgbox1\obj\Debug\msgbox1.Properties.Resources.resources
+C:\cs2017\ch08\msgbox1\obj\Debug\msgbox1.csproj.GenerateResource.Cache
+C:\cs2017\ch08\msgbox1\obj\Debug\msgbox1.csproj.CoreCompileInputs.cache
+C:\cs2017\ch08\msgbox1\obj\Debug\msgbox1.exe
+C:\cs2017\ch08\msgbox1\obj\Debug\msgbox1.pdb

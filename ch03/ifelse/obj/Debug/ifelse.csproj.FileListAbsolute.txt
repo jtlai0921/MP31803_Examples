@@ -1,0 +1,7 @@
+C:\VS2017\ch03\ifelse\bin\Debug\ifelse.exe.config
+C:\VS2017\ch03\ifelse\bin\Debug\ifelse.exe
+C:\VS2017\ch03\ifelse\bin\Debug\ifelse.pdb
+C:\VS2017\ch03\ifelse\obj\Debug\ifelse.csprojResolveAssemblyReference.cache
+C:\VS2017\ch03\ifelse\obj\Debug\ifelse.csproj.CoreCompileInputs.cache
+C:\VS2017\ch03\ifelse\obj\Debug\ifelse.exe
+C:\VS2017\ch03\ifelse\obj\Debug\ifelse.pdb

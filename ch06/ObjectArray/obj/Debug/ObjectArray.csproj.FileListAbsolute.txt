@@ -1,0 +1,14 @@
+C:\cs2017\ch06\ObjectArray\bin\Debug\ObjectArray.exe.config
+C:\cs2017\ch06\ObjectArray\bin\Debug\ObjectArray.exe
+C:\cs2017\ch06\ObjectArray\bin\Debug\ObjectArray.pdb
+C:\cs2017\ch06\ObjectArray\obj\Debug\ObjectArray.csprojResolveAssemblyReference.cache
+C:\cs2017\ch06\ObjectArray\obj\Debug\ObjectArray.csproj.CoreCompileInputs.cache
+C:\cs2017\ch06\ObjectArray\obj\Debug\ObjectArray.exe
+C:\cs2017\ch06\ObjectArray\obj\Debug\ObjectArray.pdb
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectArray\bin\Debug\ObjectArray.exe.config
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectArray\bin\Debug\ObjectArray.exe
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectArray\bin\Debug\ObjectArray.pdb
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectArray\obj\Debug\ObjectArray.csprojResolveAssemblyReference.cache
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectArray\obj\Debug\ObjectArray.csproj.CoreCompileInputs.cache
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectArray\obj\Debug\ObjectArray.exe
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\ObjectArray\obj\Debug\ObjectArray.pdb

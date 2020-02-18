@@ -1,0 +1,11 @@
+C:\cs2017\ch14\EditDB2\bin\Debug\Database1.mdf
+C:\cs2017\ch14\EditDB2\bin\Debug\Database1_log.ldf
+C:\cs2017\ch14\EditDB2\bin\Debug\EditDB2.exe.config
+C:\cs2017\ch14\EditDB2\bin\Debug\EditDB2.exe
+C:\cs2017\ch14\EditDB2\bin\Debug\EditDB2.pdb
+C:\cs2017\ch14\EditDB2\obj\Debug\EditDB2.Form1.resources
+C:\cs2017\ch14\EditDB2\obj\Debug\EditDB2.Properties.Resources.resources
+C:\cs2017\ch14\EditDB2\obj\Debug\EditDB2.csproj.GenerateResource.Cache
+C:\cs2017\ch14\EditDB2\obj\Debug\EditDB2.exe
+C:\cs2017\ch14\EditDB2\obj\Debug\EditDB2.pdb
+C:\cs2017\ch14\EditDB2\obj\Debug\EditDB2.csprojResolveAssemblyReference.cache

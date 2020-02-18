@@ -1,0 +1,14 @@
+C:\cs2017\ch06\Property\bin\Debug\Property.exe.config
+C:\cs2017\ch06\Property\bin\Debug\Property.exe
+C:\cs2017\ch06\Property\bin\Debug\Property.pdb
+C:\cs2017\ch06\Property\obj\Debug\Property.csprojResolveAssemblyReference.cache
+C:\cs2017\ch06\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+C:\cs2017\ch06\Property\obj\Debug\Property.exe
+C:\cs2017\ch06\Property\obj\Debug\Property.pdb
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Property\bin\Debug\Property.exe.config
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Property\bin\Debug\Property.exe
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Property\bin\Debug\Property.pdb
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Property\obj\Debug\Property.csprojResolveAssemblyReference.cache
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Property\obj\Debug\Property.exe
+D:\Do\do_VC#\Visual C# 2017 從零開始\初稿\ch06\ch06範例\Property\obj\Debug\Property.pdb

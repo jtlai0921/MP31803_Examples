@@ -1,0 +1,7 @@
+C:\cs2017\ch05\Recursive\obj\Debug\Recursive.csprojResolveAssemblyReference.cache
+C:\cs2017\ch05\Recursive\obj\Debug\Recursive.csproj.CoreCompileInputs.cache
+C:\cs2017\ch05\Recursive\bin\Debug\Recursive.exe.config
+C:\cs2017\ch05\Recursive\bin\Debug\Recursive.exe
+C:\cs2017\ch05\Recursive\bin\Debug\Recursive.pdb
+C:\cs2017\ch05\Recursive\obj\Debug\Recursive.exe
+C:\cs2017\ch05\Recursive\obj\Debug\Recursive.pdb

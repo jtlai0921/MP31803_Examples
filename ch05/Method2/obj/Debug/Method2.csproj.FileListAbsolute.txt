@@ -1,0 +1,6 @@
+C:\cs2017\ch05\Method2\bin\Debug\Method2.exe.config
+C:\cs2017\ch05\Method2\bin\Debug\Method2.exe
+C:\cs2017\ch05\Method2\bin\Debug\Method2.pdb
+C:\cs2017\ch05\Method2\obj\Debug\Method2.csproj.CoreCompileInputs.cache
+C:\cs2017\ch05\Method2\obj\Debug\Method2.exe
+C:\cs2017\ch05\Method2\obj\Debug\Method2.pdb

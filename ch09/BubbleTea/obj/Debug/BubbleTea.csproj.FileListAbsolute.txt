@@ -1,0 +1,10 @@
+C:\CS2017\ch09\BubbleTea\bin\Debug\BubbleTea.exe.config
+C:\CS2017\ch09\BubbleTea\bin\Debug\BubbleTea.exe
+C:\CS2017\ch09\BubbleTea\bin\Debug\BubbleTea.pdb
+C:\CS2017\ch09\BubbleTea\obj\Debug\BubbleTea.csprojResolveAssemblyReference.cache
+C:\CS2017\ch09\BubbleTea\obj\Debug\BubbleTea.Form1.resources
+C:\CS2017\ch09\BubbleTea\obj\Debug\BubbleTea.Properties.Resources.resources
+C:\CS2017\ch09\BubbleTea\obj\Debug\BubbleTea.csproj.GenerateResource.Cache
+C:\CS2017\ch09\BubbleTea\obj\Debug\BubbleTea.csproj.CoreCompileInputs.cache
+C:\CS2017\ch09\BubbleTea\obj\Debug\BubbleTea.exe
+C:\CS2017\ch09\BubbleTea\obj\Debug\BubbleTea.pdb

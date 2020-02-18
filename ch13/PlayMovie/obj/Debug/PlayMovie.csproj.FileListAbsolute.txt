@@ -1,0 +1,15 @@
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\bin\Debug\PlayMovie.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\bin\Debug\PlayMovie.exe
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\bin\Debug\PlayMovie.pdb
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\bin\Debug\Interop.WMPLib.dll
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\bin\Debug\AxInterop.WMPLib.dll
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\obj\Debug\PlayMovie.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\obj\Debug\Interop.WMPLib.dll
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\obj\Debug\AxInterop.WMPLib.dll
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\obj\Debug\PlayMovie.csproj.ResolveComReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\obj\Debug\PlayMovie.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\obj\Debug\PlayMovie.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\obj\Debug\PlayMovie.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\obj\Debug\PlayMovie.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\obj\Debug\PlayMovie.exe
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\PlayMovie\obj\Debug\PlayMovie.pdb

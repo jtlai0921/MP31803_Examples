@@ -1,0 +1,6 @@
+C:\cs2017\ch05\RandomArray\bin\Debug\RandomArray.exe.config
+C:\cs2017\ch05\RandomArray\bin\Debug\RandomArray.exe
+C:\cs2017\ch05\RandomArray\bin\Debug\RandomArray.pdb
+C:\cs2017\ch05\RandomArray\obj\Debug\RandomArray.csproj.CoreCompileInputs.cache
+C:\cs2017\ch05\RandomArray\obj\Debug\RandomArray.exe
+C:\cs2017\ch05\RandomArray\obj\Debug\RandomArray.pdb

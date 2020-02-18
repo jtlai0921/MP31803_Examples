@@ -1,0 +1,10 @@
+C:\cs2017\ch08\link1\bin\Debug\link1.exe.config
+C:\cs2017\ch08\link1\bin\Debug\link1.exe
+C:\cs2017\ch08\link1\bin\Debug\link1.pdb
+C:\cs2017\ch08\link1\obj\Debug\link1.Form1.resources
+C:\cs2017\ch08\link1\obj\Debug\link1.Properties.Resources.resources
+C:\cs2017\ch08\link1\obj\Debug\link1.csproj.GenerateResource.Cache
+C:\cs2017\ch08\link1\obj\Debug\link1.csproj.CoreCompileInputs.cache
+C:\cs2017\ch08\link1\obj\Debug\link1.exe
+C:\cs2017\ch08\link1\obj\Debug\link1.pdb
+C:\cs2017\ch08\link1\obj\Debug\link1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\CreateFile\bin\Debug\CreateFile.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\CreateFile\bin\Debug\CreateFile.exe
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\CreateFile\bin\Debug\CreateFile.pdb
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\CreateFile\obj\Debug\CreateFile.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\CreateFile\obj\Debug\CreateFile.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\CreateFile\obj\Debug\CreateFile.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\CreateFile\obj\Debug\CreateFile.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\CreateFile\obj\Debug\CreateFile.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\CreateFile\obj\Debug\CreateFile.exe
+D:\08從零開始\VisualC#2017從零開始\ch13\ch13範例\CreateFile\obj\Debug\CreateFile.pdb

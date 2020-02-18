@@ -1,0 +1,10 @@
+C:\cs2017\ch08\FormEventTest\bin\Debug\FormEventTest.exe.config
+C:\cs2017\ch08\FormEventTest\bin\Debug\FormEventTest.exe
+C:\cs2017\ch08\FormEventTest\bin\Debug\FormEventTest.pdb
+C:\cs2017\ch08\FormEventTest\obj\Debug\FormEventTest.csprojResolveAssemblyReference.cache
+C:\cs2017\ch08\FormEventTest\obj\Debug\FormEventTest.Form1.resources
+C:\cs2017\ch08\FormEventTest\obj\Debug\FormEventTest.Properties.Resources.resources
+C:\cs2017\ch08\FormEventTest\obj\Debug\FormEventTest.csproj.GenerateResource.Cache
+C:\cs2017\ch08\FormEventTest\obj\Debug\FormEventTest.csproj.CoreCompileInputs.cache
+C:\cs2017\ch08\FormEventTest\obj\Debug\FormEventTest.exe
+C:\cs2017\ch08\FormEventTest\obj\Debug\FormEventTest.pdb

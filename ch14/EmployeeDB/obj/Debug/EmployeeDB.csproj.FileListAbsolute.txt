@@ -1,0 +1,11 @@
+C:\cs2017\ch14\EmployeeDB\bin\Debug\Database1.mdf
+C:\cs2017\ch14\EmployeeDB\bin\Debug\Database1_log.ldf
+C:\cs2017\ch14\EmployeeDB\bin\Debug\EmployeeDB.exe.config
+C:\cs2017\ch14\EmployeeDB\bin\Debug\EmployeeDB.exe
+C:\cs2017\ch14\EmployeeDB\bin\Debug\EmployeeDB.pdb
+C:\cs2017\ch14\EmployeeDB\obj\Debug\EmployeeDB.csprojResolveAssemblyReference.cache
+C:\cs2017\ch14\EmployeeDB\obj\Debug\EmployeeDB.Form1.resources
+C:\cs2017\ch14\EmployeeDB\obj\Debug\EmployeeDB.Properties.Resources.resources
+C:\cs2017\ch14\EmployeeDB\obj\Debug\EmployeeDB.csproj.GenerateResource.Cache
+C:\cs2017\ch14\EmployeeDB\obj\Debug\EmployeeDB.exe
+C:\cs2017\ch14\EmployeeDB\obj\Debug\EmployeeDB.pdb

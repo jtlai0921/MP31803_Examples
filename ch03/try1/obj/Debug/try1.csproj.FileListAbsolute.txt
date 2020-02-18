@@ -1,0 +1,7 @@
+C:\Users\chiay.DESKTOP-PK0DR6V\source\repos\try1\bin\Debug\try1.exe.config
+C:\Users\chiay.DESKTOP-PK0DR6V\source\repos\try1\bin\Debug\try1.exe
+C:\Users\chiay.DESKTOP-PK0DR6V\source\repos\try1\bin\Debug\try1.pdb
+C:\Users\chiay.DESKTOP-PK0DR6V\source\repos\try1\obj\Debug\try1.csprojResolveAssemblyReference.cache
+C:\Users\chiay.DESKTOP-PK0DR6V\source\repos\try1\obj\Debug\try1.csproj.CoreCompileInputs.cache
+C:\Users\chiay.DESKTOP-PK0DR6V\source\repos\try1\obj\Debug\try1.exe
+C:\Users\chiay.DESKTOP-PK0DR6V\source\repos\try1\obj\Debug\try1.pdb

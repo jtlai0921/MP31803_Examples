@@ -1,0 +1,10 @@
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Notepad\bin\Debug\Notepad.exe.config
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Notepad\bin\Debug\Notepad.exe
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Notepad\bin\Debug\Notepad.pdb
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Notepad\obj\Debug\Notepad.Form1.resources
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Notepad\obj\Debug\Notepad.exe
+D:\08從零開始\VisualC#2017從零開始\ch12\ch12範例\Notepad\obj\Debug\Notepad.pdb
